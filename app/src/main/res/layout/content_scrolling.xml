@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_scrolling">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginTop="8dp"
+            android:paddingBottom="10dp"
+            app:cardElevation="0dp"
+            app:cardCornerRadius="0dp"
+            android:background="#fff">
+
+            <TextView
+                android:id="@+id/detail_titre_urgence"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:layout_below="@id/detail_image_urgence"
+                android:textColor="@color/TitleColor"
+                android:textSize="@dimen/titre_taille"
+                android:textStyle="bold" />
+        </android.support.v7.widget.CardView>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="#fff"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/detail_urgence_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textAlignment="viewStart"
+                android:textSize="@dimen/text_general_taille"
+                tools:ignore="RtlCompat" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="#fff"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/faire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Que Faire ?"
+                android:textAlignment="viewStart"
+                android:textSize="@dimen/instruction"
+                tools:ignore="RtlCompat" />
+
+            <View
+                android:id="@+id/v_faire"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/faire"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="8dp"
+                android:background="#e0e0e0" />
+
+            <TextView
+                android:id="@+id/detail_que_faire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_faire"
+                android:textAlignment="viewStart"
+                android:textSize="@dimen/text_general_taille"
+                tools:ignore="RtlCompat" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="#fff"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/pasfaire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ne pas Faire ?"
+                android:textAlignment="center"
+                android:textSize="@dimen/instruction"
+                tools:ignore="RtlCompat" />
+
+            <View
+                android:id="@+id/v_pasFaire"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/pasfaire"
+                android:layout_marginTop="6dp"
+                android:background="#e0e0e0" />
+
+            <TextView
+                android:id="@+id/detail_ne_pas_faire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_pasFaire"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="8dp"
+                android:textSize="@dimen/text_general_taille" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="@string/app_name"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

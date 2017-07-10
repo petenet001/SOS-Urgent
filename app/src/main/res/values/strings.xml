@@ -1,0 +1,339 @@
+<resources>
+    <string name="app_name">SOS-urgent</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string-array name="titres_urgence">
+        <item>"L'arrêt cardiaque - les gestes de secours "</item>
+        <item>"LES MORSURES"</item>
+        <item>"NOYADE - Les gestes qui sauvent"</item>
+        <item>"Incendie"</item>
+        <item>"Blessure par balle"</item>
+    </string-array>
+
+    <string-array name="descriptions_urgence">
+        <item>
+            "Un arrêt cardio-ventilatoire, ou arrêt cardio-respiratoire (ACR), est l'arrêt de la circulation du sang et de la respiration chez un individu. On parle aussi parfois simplement d'arrêt circulatoire ou d'arrêt cardiaque.L'arrêt cardio-circulatoire ne signifie pas nécessairement la mort de la victime : en cas de constatation d'un arrêt cardio-circulatoire, il faut immédiatement prévenir les secours et commencer la réanimation cardio-pulmonaire en attendant les secours.Son incidence annuelle, en dehors du milieu hospitalier, est proche de 5 cas pour 10 000 habitants en Amérique du Nord (dont plus de la moitié bénéficie d'une tentative de réanimation en 2007)"
+        </item>
+        <item>
+            "Les vipères sont les seuls serpents venimeux vivant sous nos climats mais leur morsure est très rarement mortelle. Il se peut que l'on ressente une petite douleur au moment de la morsure mais sans avoir le temps d'apercevoir le reptile. Les crocs de vipère donnent deux petits points, souvent entourés d'une auréole rouge"
+        </item>
+        <item>
+            "L'une des principales causes de mortalité par accident chez les enfants, la noyade engendre la mort d'une centaine d'enfants chaque année,classée parmi les premières causes de mortalité infantile due aux accidents, la noyade est un accident dont l'issue est souvent tragique.Environ 1 000 personnes se noient chaque année en France, en majorité des enfants de moins de 6 ans.La prudence est de mise aux abords de la plage, de la piscine et autres points d'eau.Les enfants ne sont pas les seules victimes de noyade : la vigilance doit être la même pour tous."
+        </item>
+        <item>
+            "Quand un incendie se déclare, de bons réflexes incendie peuvent sauver des vies. La règle d'or : ne jamais prendre de risques et éviter toute tentative "en solo". Selon la situation dans laquelle on se trouve, les bons gestes contre les incendies diffèrent. Dans tous les cas, il faut appeler les pompiers dès que l’on se trouve en sécurité et répondre calmement à leurs questions afin qu’ils puissent localiser l’incendie et intervenir rapidement"
+        </item>
+        <item>
+            "Dans les films, tous les héros savent soigner une blessure par balle, alors qu’il s’agit de l’une des formes de traumatismes les plus graves. Et vous?\n Il est très difficile de prédire le degré de dommage causé par une blessure par balle, et la plupart des blessures causées par une arme à feu dépassent de loin ce que vous pouvez raisonnablement traiter. Pour cette raison, la meilleure option est de conduire la victime à un hôpital dès que possible. Voici donc quelques indications sur ce que vous pouvez faire pour stabiliser la victime dans l’intervalle s’il n’y a ni médecin ni hôpital a proximité (ce guide fonctionnera aussi pour les blessures par armes blanches, de type flèches ou couteau)."
+        </item>
+    </string-array>
+
+    <string-array name="desc_que_faire_urgence">
+        <item>
+            "1- Vérifiez que la victime ne réagit pas et ne respire pas normalement. \n
+2-Demandez à quelqu'un de prévenir les secours d'urgence (le 15 ou le 18) et d'apporter immédiatement un défibrillateur automatisé externe (s'il est disponible). Faites tout cela vous-même si vous êtes seul en cliquant sur le bouton ci-dessus.\n
+3-Commencez par effectuer 30 compressions thoraciques. \n
+4-Pratiquez ensuite 2 insufflations. \n
+5-Alternez 30 compressions thoraciques et 2 insufflations. \n
+6-Continuez la réanimation jusqu'à ce que les secours d'urgence arrivent et poursuivent la réanimation, ou que la victime reprenne une respiration normale. \n
+7-Placez la victime sur un plan dur, le plus souvent à terre.\n
+8-Agenouillez-vous à côté de la victime\n
+9-Placez le talon d'une de vos mains au milieu de sa poitrine nue.\n
+10-Placez le talon de l'autre main sur votre première main.\n
+11-Solidarisez vos deux mains. N'appuyez ni sur les côtes, ni sur la partie inférieure du sternum.\n
+12-Positionnez-vous de façon que vos épaules soient à l'aplomb de la poitrine de la victime. Bras tendus, comprimez verticalement le sternum en l'enfonçant de 5 à 6 cm.\n
+13-Après chaque pression, laissez la poitrine de la victime reprendre sa position initiale afin de permettre au sang de revenir vers le cœur. Maintenez vos mains en position sur le sternum.\n
+14-La durée de la compression doit être égale à celle du relâchement de la pression de la poitrine.\n
+15-Effectuez 30 compressions thoraciques à une fréquence de 100 par minute, soit environ 2 compressions par seconde.\n
+16-Pratiquez ensuite 2 insufflations par la technique du bouche-à-bouche.\n
+17-***Technique : le bouche-à-bouche arretcardiaque***\n
+Basculez de nouveau la tête de la victime vers l'arrière et soulevez son menton\n
+18-Placez une main sur son front et pincez ses narines entre le pouce et l'index.\n
+19-De l'autre main, maintenez son menton de telle sorte que sa bouche s'ouvre.\n
+20-Inspirez normalement, penchez-vous vers la victime et couvrez entièrement sa bouche par la vôtre.\n
+21-Insufflez lentement et régulièrement de l'air dans la bouche de la victime tout en vérifiant que sa poitrine se soulève. Chaque insufflation dure environ 1 seconde.\n
+22-Tout en maintenant la tête de la victime basculée en arrière et son menton relevé, redressez-vous légèrement pour vérifier que sa poitrine s'abaisse à l'expiration.\n
+23-Inspirez de nouveau normalement et pratiquez une seconde insufflation.\n
+24-Repositionnez correctement vos mains et pratiquez 30 nouvelles compressions thoraciques.
+            "
+        </item>
+        <item>
+            "
+1-Prévenir les secours.\n
+2-Rassurer et allonger la victime pour éviter que le venin se diffuse dans son organisme.\n
+3-Immobiliser la zone mordue.\n
+4-Si possible, nettoyez la plaie avec de l'eau et du savon de Marseille, désinfectez et refroidissez l'endroit de la morsure avec un linge ou un sac rempli de glace, cela calme la douleur.\n
+5-Si vous êtes dans un endroit isolé, transportez la victime sans la faire marcher et conduisez la aux urgences.
+"
+        </item>
+        <item>
+            "1- ***Prévenir les secours en cliquant sur le boutton approprié \n
+2- ***Rassurer et allonger la victime pour éviter que le venin se diffuse dans son organisme.\n
+3- ***Immobiliser la zone mordue.\n
+4- ***Ne pas utiliser de dispositif d'extraction de venin, ne pas essayer de sucer le venin, d'inciser la plaie, de poser un garrot, ni d'injecter de serum antivenimeux (car il peut provoquer des allergies graves).\n
+5- ***Si possible, nettoyez la plaie avec de l'eau et du savon de Marseille, désinfectez et refroidissez l'endroit de la morsure avec un linge ou un sac rempli de glace, cela calme la douleur.\n
+6- ***Si vous êtes dans un endroit isolé, transportez la victime sans la faire marcher et conduisez la aux urgences.
+            "
+        </item>
+        <item>
+            "
+A - En cas d'incendie déclaré chez soi :
+        Jusqu’à un certain point, il est possible d’éteindre le feu soi-même, avant que la fumée ne s’épaississe. Si par exemple un objet se consume ou si une corbeille à papier s’enflamme, une bassine d’eau ou un petit extincteur peuvent suffire pour freiner et éliminer le départ de feu.
+        Si toutefois le feu est déjà important et qu’une épaisse fumée s’en dégage, il ne faut pas essayer de le maîtriser seul.
+1 - La première chose à faire est de faire immédiatement évacuer les lieux par tous les occupants pour éviter l’intoxication par la fumée ou le gaz.
+2 - Fermer également la porte de la pièce en feu ainsi que la porte d’entrée afin de retarder la propagation de l’incendie.
+3 - Avant d’ouvrir une porte, s’assurer qu’elle n’est pas chaude. Dans le cas contraire, cela signifie que le feu est de l’autre côté, auquel cas il ne faut pas l’ouvrir.
+4 - En cas d’incendie, toujours préférer l’escalier à l’ascenseur, qui peut se bloquer suite à un court-circuit.
+5 - Une fois dehors, faire le 18 (sapeurs-pompiers) ou le 112 (numéro d’urgence européen), ou clickez simplement sur le boutton tout en haut il se chargera de le faire a votre place.
+\n\n
+B - En cas d'incendie déclaré dans un logement en-dessous de son domicile :
+1 - La première chose à faire est d’empêcher que la fumée ne se propage dans l’appartement.
+2 - Pour ce faire, arroser et colmater la porte d’entrée avec des linges mouillés.
+3 - Après avoir appeler les secours , réunir sa famille dans une pièce et signaler sa présence au secours par la fenêtre.
+4 - La fumée commence toujours par envahir les parties hautes de la pièce ?
+5 - Il faut donc, pour s’en protéger, se mettre au plus près du sol et se couvrir le nez et la bouche d’un linge humide en évitant autant que possible de respirer les fumées.
+6 - Ouvrir de temps en temps la fenêtre pour respirer de l’air frais, mais la refermer pour ne pas provoquer d’appel d’air.
+            "
+        </item>
+
+        <item>
+            "
+1 - Avant tout, assurez-vous que la zone est sécurisée et que vous ne risquez rien.
+2 - Si elle ne l’est pas, réfugiez-vous ailleurs ou sécurisez le périmètre par vous-même (que tous les rambos deviennent l’option « réfugiez-vous », mais vous êtes seul juge de la situation).
+3 - Contactez les secours dès que possible.
+4 - Restez calme si vous voulez être à même de donner des informations utiles et pertinentes.
+5 - Suivez les principes du secourisme : Si la victime est inconsciente mais respire, désencombrez ses voies respiratoires. Si la victime ne respire plus, étudiez la nécessité d’un massage cardiaque et d’un bouche à bouche.
+6 - En cas de doute, enlevez les vêtements de la victime pour dévoiler les zones touchées, mais sans la bouger. Utilisez par exemple un cutter au besoin ou des ciseaux (oui, même sur un Levis dernière mode, de toutes manières il est déjà probablement déjà troué).
+7 - Tâchez de contrôler l’hémorragie en combinant les moyens suivants :
+        * Compression de l’hémorragie, \n
+        * Elévation des membres touchés, \n
+        * points de compressions et garrots.
+    Notez que la compression est la pratique prioritaire et souvent la plus efficace, que le garrot causera l’amputation si il est prolongé et qu’il ne doit pas être retiré sans avis médical.
+8 - Immobilisez la zone blessée (attelles, etc…) et appliquez des bandages (si possibles stériles), pour favoriser la coagulation. En cas de besoin des vêtements propres peuvent faire l’affaire.
+
+\n\n
+A savoir :
+        * Vous gagnez des points bonus si vous êtes rapide : Le temps est votre ennemi et dans l’idéal la victime devrait être en chemin pour l’hôpital dans les 10 minutes.
+        * Tâchez d’éviter les infections. N’utilisez pas de pommade sur les blessures profondes et choisissez plutôt des solutions d’eau oxygénée ou des antiseptiques.
+        * En cas d’urgence, le sucre aide la coagulation et lutte (en partie) contre les bactéries.
+        * La glace peut aider la coagulation et limiter la perte de sang. Direction le frigo.Fouillez la cuisine.
+        * Les blessures par balles ne saignent pas toujours beaucoup, cela ne signifie pas qu’elles sont moins graves et il subsiste des risques d’hémorragies internes (entre autres joyeusetés).
+        * Les coups de feu peuvent provoquer trois types de traumatismes :
+           * Les dommages causés par l’onde de choc de la balle dans le corps
+           * La pénétration (destruction de la chair par le projectile)
+           * La fragmentation (causées par des morceaux du projectile ou d’os).
+            "
+        </item>
+
+    </string-array>
+
+    <string-array name="desc_ne_pa_faire_urgence">
+        <item>
+            ""
+        </item>
+        <item>
+            "
+1-Eviter de ne pas porter les bottes ou de chaussures montantes\n
+2-Eviter de soulever des pierres ou de mettre ses mains dans les troncs d'arbre\n
+3-Ne pas utiliser de dispositif d'extraction de venin,\n
+4-ne pas essayer de sucer le venin, d'inciser la plaie, de poser un garrot, ni d'injecter de serum antivenimeux (car il peut provoquer des allergies graves).\n
+            "
+        </item>
+        <item>
+            "2 - ***Attention !\n"
+            "Ne pratiquez pas les techniques de réanimation si vous n'y avez pas été formé."
+        </item>
+        <item>
+"
+            1 - Ne jamais retourner dans la maison, pour quelque raison que ce soit.
+            2 - Ne surtout pas tenter de prendre l'ascenseur
+"
+        </item>
+        <item>
+            "
+1 - Ne déplacez pas la victime, sauf en cas de nécessité absolue (pour sa sécurité ou pour lui donner accès aux soins).
+2 - Ne retirez pas le projectile sans avis médical, car si il est logé dans une partie vitale du corps il aide peut-être à comprimer l’hémorragie.
+            "
+        </item>
+    </string-array>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">about</string>
+    <string name="action_about">A Propos</string>
+    <string name="intent_shared_text">Parateger via</string>
+    <string name="ok">"OK"</string>
+    <string name="about_text">performed by Ricebean . Copyrights 2017 Tous droits réservés</string>
+    <string name="action_search">rechercher</string>
+    <string name="urgence_police">"tel:069276466"</string>
+    <string name="urgence_incendie">"tel:066969099"</string>
+    <string name="urgence_medicale">"tel:069936876"</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="share">partager</string>
+    <string name="action_pompier">Pompiers</string>
+    <string name="action_police">Police</string>
+    <string name="action_medicale">Médicale</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_setting">Settings</string>
+
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
